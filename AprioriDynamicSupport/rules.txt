@@ -1,0 +1,6 @@
+
+
+Large itemset [milk=skimmed milk]
+
+
+Support: 0.33333334; DinamicSupport: 0.3
